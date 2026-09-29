@@ -1,7 +1,7 @@
 # Trade Finance Lab Guide
 ### TechXchange 2026
 
-> **Welcome!** This hands-on lab walks you through building a Trade Finance solution on IBM Cloud, from provisioning services to deploying a fully integrated document-workflow application.
+> **Welcome!** This hands-on lab walks you through building a Multi-Agent work flow for a Trade Finance solution on Sirion Agent OS hosted on IBM Cloud, from building Agents to deploying a fully integrated contract lifecycle management workflow.
 
 ---
 
@@ -9,10 +9,10 @@
 
 By the end of these labs you will have:
 
-- ✅ A running **Letter of Credit** workflow backed by smart contracts
-- ✅ REST API endpoints for trade document submission and approval
-- ✅ An end-to-end test suite validating the complete transaction lifecycle
-- ✅ A live deployment on IBM Cloud accessible to all participants
+- ✅ Multi-Agent Workflow for Trade Finance Solution
+- ✅ Inferencing LLMs hosted on IBM Enterprise RedHat AI Inference service
+- ✅ Deploy Serverless Applications for Agent2Agent commnication on IBM Cloud Code Engine
+- ✅ Understand Industry Security and Compliance on IBM Cloud
 
 ---
 
@@ -20,13 +20,13 @@ By the end of these labs you will have:
 
 | Lab | Topic | Duration |
 |-----|-------|----------|
-| Lab 1 | Environment Setup | 20 min |
-| Lab 2 | Trade Finance Fundamentals | 30 min |
-| Lab 3 | Building the Solution | 45 min |
-| Lab 4 | Testing & Validation | 20 min |
-| Lab 5 | Deployment | 15 min |
+| Section 1 | Introduction | 10 min |
+| Section 2 | Building Multi-Agent Workflow on Sirion Agent OS | 30 min |
+| Section 3 | Deploying application on serverless code engine | 30 min |
+| Section 4 | Understanding Security and Compliance | 10 min |
+| Section 5 | Questions | 10 min |
 
-**Total estimated time:** ~2 hours 10 minutes
+**Total estimated time:** 90 minutes
 
 ---
 
@@ -42,9 +42,7 @@ Navigate using the **sidebar** on the left or the **arrows** at the bottom of ea
 
 | Channel | Details |
 |---------|---------|
-| Lab facilitators | Available at each table throughout the session |
-| Slack | `#techxchange-2026-trade-finance` |
-| GitHub Issues | File an issue in the lab repo |
+| Lab facilitators | 2 Lab Instructors Available |
 
 ---
 

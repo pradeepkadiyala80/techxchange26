@@ -1,31 +1,12 @@
 # Architecture Overview
 
-This section describes the high-level architecture of the Trade Finance solution you will build during the labs.
+This section describes the high-level architecture of the Trade Finance solution you will build during the labs using IBM Cloud Independent Software Vendor (ISV) Sirion Agent OS and IBM Cloud Services.
 
 ---
 
 ## Component Diagram
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                        IBM Cloud                            │
-│                                                             │
-│  ┌──────────────┐    ┌──────────────┐   ┌───────────────┐  │
-│  │  API Gateway │───▶│  Node.js App │──▶│  IBM Blockchain│  │
-│  │  (API Connect│    │  (Express)   │   │  Platform     │  │
-│  └──────────────┘    └──────────────┘   └───────────────┘  │
-│          │                  │                   │           │
-│          │           ┌──────┴──────┐            │           │
-│          │           │  Cloudant   │            │           │
-│          │           │  (Documents)│            │           │
-│          │           └─────────────┘            │           │
-└──────────┼──────────────────────────────────────┼───────────┘
-           │                                      │
-     ┌─────▼─────┐                        ┌───────▼──────┐
-     │  Importers │                        │  Exporters   │
-     │  (Buyers)  │                        │  (Sellers)   │
-     └────────────┘                        └──────────────┘
-```
+![Sirion on IBM Cloud Framework for Financial Services](images/architecture-1.png)
 
 ---
 
