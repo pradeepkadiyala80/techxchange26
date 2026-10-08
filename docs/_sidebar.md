@@ -5,11 +5,11 @@
   * [Prerequisites](overview/prerequisites.md)
   * [Architecture Overview](overview/architecture.md)
 
-* **Section 1 — Build Agent on Sirion AgentOS**
-  * [1.1 Build Agent](lab1/01-build-agent.md)
-  * [1.2 Tools and Knowledge Base](lab1/02-tools-knowledge.md)
-  * [1.3 Configuring Conversation Experience](lab1/03-conversation-conf.md)
-  * [1.4 Run the Agent](lab1/04-run.md)
+* **Section 1 — Building Agents on Sirion AgentOS**
+  * [1.1 Build the Agent](lab1/01-build-agent.md)
+  * [1.2 Configure the Agent](lab1/02-configure-agent.md)
+  * [1.3 Run the Agent](lab1/03-run.md)
+  * [1.4 Attach Deterministic UI](lab1/04-deterministic-ui.md)
 
 * **Lab 2 — Trade Finance Fundamentals**
   * [2.1 Letters of Credit (LC)](lab2/01-letters-of-credit.md)
