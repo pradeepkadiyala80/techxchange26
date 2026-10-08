@@ -1,4 +1,4 @@
-# Trade Finance Lab Guide — TechXchange 2026
+# Lab-2930 Guide — TechXchange 2026
 
 Hands-on lab guide for building a Trade Finance solution on IBM Cloud.
 

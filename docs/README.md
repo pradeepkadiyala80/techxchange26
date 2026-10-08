@@ -1,4 +1,7 @@
-# Trade Finance Lab Guide
+# Architecting Regulated AI on IBM Cloud: 
+
+## Powered by - Sirion agentOS and nVIDIA
+
 ### TechXchange 2026
 
 > **Welcome!** This hands-on lab walks you through building a Multi-Agent work flow for a Trade Finance solution on Sirion Agent OS hosted on IBM Cloud, from building Agents to deploying a fully integrated contract lifecycle management workflow.

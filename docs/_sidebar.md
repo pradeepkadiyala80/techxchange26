@@ -1,4 +1,4 @@
-# Trade Finance Lab Guide
+#  IBM Cloud AI: Powered by Sirion and nVIDIA
 
 * **Lab Overview**
   * [Introduction](README.md)
