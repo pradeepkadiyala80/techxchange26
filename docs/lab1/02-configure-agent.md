@@ -1,6 +1,6 @@
-# 1.2 Attaching tools and knowledge sources
+# 1.2 Configure Agent
 
-The agent exists, but it cannot yet read a document. In this task you give it the tools to do so, shape the experience a business user sees, and then run a real contract through it.
+The agent exists, but it cannot yet read a document. In this task you give it the tools to do so, shape the experience a business user sees with greetings and conversation starters, and then run a real contract through it.
 
 Tools are what let an agent act rather than just talk. To read an uploaded contract, this agent needs the document toolkits.
 
@@ -27,17 +27,16 @@ In the left rail of the agent, under BUILD,
 
 (A) click Knowledge and review the Knowledge Sources panel. 
 
-(B) Click Add New Source to see the source types available — Website, Document and Custom Data.
+(B) Add New Source will let you add new knowledge from sources with source types available — Website, Document and Custom Data. (Do not do anything here)
 
 ![Knowledge-Source](images/knowledge_source.png)
 
-> Close the "Add New Knowledge Source" dialog box. This is just to know how to add new knowledge to the system
 
 ## Step 3 - Attach Tools
 
 (A) Click Tools in the left rail. 
 
-(B) Scroll to System Tools — these are the toolkits agentOS provides out of the box.
+(B) Scroll to System Tools (which is below UI Components) — these are the toolkits agentOS provides out of the box.
 
 Select Word, PDF, Document Parser. 
 

@@ -57,7 +57,7 @@ agentOS has now produced a complete draft. Before running anything, read what it
 
 **(D)** Allow File Uploads — controls whether users can attach a document to the conversation. 
 
-You will enable it in section 5.1 so the agent can read an uploaded contract.
+You will enable it so the agent can read an uploaded contract.
 
 **(E)** Dynamic Form — lets the agent render an input form for users where one helps. 
 
@@ -103,4 +103,4 @@ Before moving to the next section, confirm:
 
 ---
 
-*Next: [1.2 Attaching tools and knowledge sources →](lab1/02-tools-knowledge.md)*
+*Next: [1.2 Configure Agent →](lab1/02-configure-agent.md)*

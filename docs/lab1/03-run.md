@@ -55,6 +55,8 @@ Reading the RAG scale. The rating describes how urgently a risk needs attention,
 
 ---
 
+## ✅ Checkpoint
+
 Before moving to the next section, confirm:
 
 - [ ] You are able to run the Agent

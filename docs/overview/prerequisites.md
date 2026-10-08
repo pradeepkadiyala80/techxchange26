@@ -10,6 +10,7 @@ Before you begin the labs, ensure the following tools and access are in place.
 |---------|-------|
 | **Sirion Agent OS** | User Credentials (Provided during the lab) |
 | **Trade Finance Agreement Document** | Download [TRADE_FINANCE_FACILITY_AGREEMENT_1.docx](/lab1/files/TRADE_FINANCE_FACILITY_AGREEMENT_1.docx ':ignore') |
+| **Trade Finance UI Component** | <a href="/lab1/files/RisksinTradeFinanceContract-Bundle.zip" download="Risks-Trade-Finance-Contract-UI-Component.zip">Download Risks-Trade-Finance-Contract-UI-Component.zip</a> |
 | **IBM Cloud** | Join IBM Cloud through email invitation |
 
 ---
