@@ -8,7 +8,7 @@
   * [1.1 Build the Agent](lab1/01-build-agent.md)
   * [1.2 Configure the Agent](lab1/02-configure-agent.md)
   * [1.3 Run the Agent](lab1/03-run.md)
-  * [1.4 Attach Deterministic UI](lab1/04-deterministic-ui.md)
+  * [1.4 Integrate Deterministic UI](lab1/04-deterministic-ui.md)
 
 * **Section 2 — Deploying Agents on IBM Cloud Serverless Code Engine**
   * [2.1 Create Project](lab2/01-letters-of-credit.md)
