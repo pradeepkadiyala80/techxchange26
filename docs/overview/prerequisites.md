@@ -20,4 +20,4 @@ Before you begin the labs, ensure the following tools and access are in place.
 None.
 
 
-*Next: [Architecture Overview →](architecture.md)*
+*Next: [Build Agent →](../lab1/01-build-agent.md)*
