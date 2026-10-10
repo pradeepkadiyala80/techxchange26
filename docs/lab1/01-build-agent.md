@@ -14,7 +14,13 @@ agentOS credentials are provided to each attendees. Use your credentials to logi
 
 ## Step 2 —	Describe the Agent
 
-From the agentOS home page, click into the Describe Your Agent box
+After you login you will be taken to  agentOS home page. Here you will see the following
+
+(A) This is the Main Menu to navigate through different sections of agentOS
+
+(B) You can expand and collapse the main menu using the arrow icon
+
+(C) click into the Describe Your Agent box
 
 ![decribe-agent-image](images/describe-agent.png)
 
@@ -103,4 +109,4 @@ Before moving to the next section, confirm:
 
 ---
 
-*Next: [1.2 Configure Agent →](lab1/02-configure-agent.md)*
+*Next: [1.2 Configure Agent →](/lab1/02-configure-agent.md)*
