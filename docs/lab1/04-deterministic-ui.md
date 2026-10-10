@@ -98,5 +98,12 @@ Show me a RAG table of risks in a typical Trade Finance contract.
 
 The agent renders the Risks in a Trade Finance Contract UI component — the same findings, presented as an executive dashboard
 
+---
 
+## ✅ Checkpoint
+
+- [ ] Create Deterministic UI Component
+- [ ] Test the UI Component against Agent
+
+*Next: [1.4 Generate Agent API Key  →](lab1/05-api.md)*
 

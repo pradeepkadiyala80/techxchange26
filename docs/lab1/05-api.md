@@ -51,3 +51,4 @@ Before you got to next section make sure you save the:
 
 Now that you have created an Agent for a specific industry use case which is identifying the risks for a given contract, we will integrate this Agent with an existing Enterprise Application and deploy on IBM Cloud Serverless Project
 
+*Next: [2.1 Create Project →](lab2/01-create-proj.md)*
