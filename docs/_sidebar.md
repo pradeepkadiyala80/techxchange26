@@ -11,10 +11,10 @@
   * [1.4 Create Deterministic UI](lab1/04-deterministic-ui.md)
   * [1.5 Get Agent API Key](lab1/05-api.md)
 
-* **Deploy Agent App to IBM Cloud**
-  * [2.1 Create Project](lab2/01-letters-of-credit.md)
-  * [2.2 Deploy Agentic workflow application](lab2/02-bank-guarantees.md)
-  * [2.3 Test the Application](lab2/03-documentary-collections.md)
+* **Deploy Agentic App on IBM Cloud**
+  * [2.1 Create Serverless Project](lab2/01-create-project.md)
+  * [2.2 Deploy Agentic AI App](lab2/02-create-run-app.md)
+  * [2.3 Test the Application](lab2/03-test-app.md)
 
 * **Wrap-Up**  
   * [Architecture](overview/architecture.md)

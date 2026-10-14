@@ -73,9 +73,11 @@ You will enable it.
 
 ---
 
-## Step 7 - Review System Prompt
+## Step 5 - Review System Prompt
 
-Scroll to Agent Instructions. This is the system prompt that defines the agent’s behaviour. Read how it establishes the role, the risk categories, and the presentation rules.
+Scroll down to Agent Instructions. This is the system prompt that defines the agent’s behaviour. Read how it establishes the role, the risk categories, and the presentation rules.
+
+> Do not make any changes. Leave the prompt as is.
 
 ![Agent-System-Prompt-Image](images/system_prompt.png)
 
@@ -91,9 +93,9 @@ Click Expand to read the full prompt
 
 ---
 
-## Step 8 - LLM configuration
+## Step 6 - LLM configuration
 
-Scroll to LLM Configuration to see the LLM configuration. 
+Scroll down to LLM Configuration to see the LLM configuration. 
 
 ![Agent-LLM_Config-Image](images/llm_config.png)
 
