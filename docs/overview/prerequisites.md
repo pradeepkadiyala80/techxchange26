@@ -1,6 +1,6 @@
 # Prerequisites
 
-Before you begin the labs, ensure the following tools and access are in place.
+Before you begin the lab, ensure the following are in place.
 
 ---
 
@@ -12,6 +12,7 @@ Before you begin the labs, ensure the following tools and access are in place.
 | **Trade Finance Agreement Document** | Download [TRADE_FINANCE_FACILITY_AGREEMENT_1.docx](/lab1/files/TRADE_FINANCE_FACILITY_AGREEMENT_1.docx ':ignore') |
 | **Trade Finance UI Component** | <a href="/lab1/files/RisksinTradeFinanceContract-Bundle.zip" download="Risks-Trade-Finance-Contract-UI-Component.zip">Download Risks-Trade-Finance-Contract-UI-Component.zip</a> |
 | **IBM Cloud** | Join IBM Cloud through email invitation |
+| **Docker Hub** | You will be provided with Docker Hub API token to pull the Bank application image |
 
 Also you will get a hardcopy document that has credentials required for this Lab
 

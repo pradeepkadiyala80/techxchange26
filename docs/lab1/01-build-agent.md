@@ -83,6 +83,7 @@ Scroll down to Agent Instructions. This is the system prompt that defines the ag
 
 The generated prompt sets the agent’s role, then lists behavioural guidelines: 
 
+> Behavioural Guidelines -
 > * Use clear executive language and avoid legal jargon; 
 > * Always present risks as a table with Risk Category, Description and RAG Status; 
 > * Categorise against standard trade finance risk domains; 

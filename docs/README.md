@@ -1,18 +1,21 @@
-# Architecting Regulated AI on IBM Cloud: 
+# Building Agents for Regulated Industries on IBM Cloud: 
 
 ## Powered by - Sirion agentOS and nVIDIA
 
 ### TechXchange 2026
 
-> **Welcome!** This hands-on lab walks you through building a Multi-Agent work flow for a Trade Finance solution on Sirion Agent OS hosted on IBM Cloud, from building Agents to deploying a fully integrated contract lifecycle management workflow.
+> **Welcome!** In this hands-on lab, you will build Agents to solve a business problem on IBM Cloud with Sirion Agent OS and nVIDIA GPU-accelerated infrastructure and address enterprise challenges in compliance, security, and data sovereignty.
+By the end of the lab, participants will have practical experience building and operating compliant AI solutions and will leave with proven deployment patterns, best practices, and reference architectures that can be applied across financial services, healthcare, government, and other highly regulated industries
 
 ---
 
 ## What You Will Build
 
-You will buid an end to end Enterprise Agentic AI solution for an use case in Contract Lifecycle Management in Trade Finance with Agents created on Sirion agentOS and Banking application deployed on Severless Code Engine on IBM Cloud.
+- [ ] You will build an end to end Enterprise Agentic AI on IBM Cloud for a use case in Contract Lifecycle Management in Trade Finance.
+- [ ] The Agent is created on Sirion agentOS with domain expertise in contract lifcycle management 
+- [ ] The Agent is integrated with a Banking application deployed on Severless Code Engine on IBM Cloud.
+- [ ] The Agent inferences LLMs hosted on NVIDIA GPUs within the IBM Cloud infrastructure.
 
-The Agent will inference LLMs hosted on NVIDIA GPUs within the IBM Cloud infrastructure.
 
 ![system-context-image](overview/images/system_context.jpeg)
 
