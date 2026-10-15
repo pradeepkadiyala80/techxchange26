@@ -5,7 +5,7 @@
   * [Prerequisites](overview/prerequisites.md)
 
 * **Build Agents on agentOS**
-  * [1.1 Build the Agent](lab1/01-build-agent.md)
+  * [1.1 Build an Agent](lab1/01-build-agent.md)
   * [1.2 Configure the Agent](lab1/02-configure-agent.md)
   * [1.3 Run the Agent](lab1/03-run.md)
   * [1.4 Create Deterministic UI](lab1/04-deterministic-ui.md)

@@ -10,11 +10,18 @@
 
 ## What You Will Build
 
+You will buid an end to end Enterprise Agentic AI solution for an use case in Contract Lifecycle Management in Trade Finance with Agents created on Sirion agentOS and Banking application deployed on Severless Code Engine on IBM Cloud.
+
+The Agent will inference LLMs hosted on NVIDIA GPUs within the IBM Cloud infrastructure.
+
+![system-context-image](overview/images/system_context.jpeg)
+
+
 By the end of these labs you will have:
 
-- ✅ Multi-Agent Workflow for Trade Finance Solution
-- ✅ Inferencing LLMs hosted on IBM Enterprise RedHat AI Inference service
-- ✅ Deploy Serverless Applications for Agent2Agent commnication on IBM Cloud Code Engine
+- ✅ Agentic AI Workflow for Contract Lifecycle Management Solution
+- ✅ Inferencing LLMs hosted on IBM Enterprise nVIDIA GPUs within IBM Cloud infrastructure
+- ✅ Deploy Serverless Applications integrating with Risk Analyser Agent running agentOS platform
 - ✅ Understand Industry Security and Compliance on IBM Cloud
 
 ---
@@ -43,9 +50,12 @@ Navigate using the **sidebar** on the left or the **arrows** at the bottom of ea
 
 ## Getting Help
 
-| Channel | Details |
+Lab Facilitators
+
+| Name | Details |
 |---------|---------|
-| Lab facilitators | 2 Lab Instructors Available |
+| Pradeep Kadiyala | Sr. Solutions Architect - IBM FS Cloud |
+| Drew Thorstensen | Distinguished Engineer - IBM Cloud - Compute & AI Infrastructure |
 
 ---
 

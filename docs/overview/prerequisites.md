@@ -13,11 +13,10 @@ Before you begin the labs, ensure the following tools and access are in place.
 | **Trade Finance UI Component** | <a href="/lab1/files/RisksinTradeFinanceContract-Bundle.zip" download="Risks-Trade-Finance-Contract-UI-Component.zip">Download Risks-Trade-Finance-Contract-UI-Component.zip</a> |
 | **IBM Cloud** | Join IBM Cloud through email invitation |
 
+Also you will get a hardcopy document that has credentials required for this Lab
+
 ---
 
-## Required Tools
-
-None.
 
 
-*Next: [Build Agent →](../lab1/01-build-agent.md)*
+*Next: [Lets start by building an Agent →](../lab1/01-build-agent.md)*
