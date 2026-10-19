@@ -43,7 +43,7 @@ Attach the "Trade Finance Agreement Document" to identify and analyze the RAG (R
 
 > The file is provided in the pre-requisites. You can also download the file from here [TRADE FINANCE FACILITY AGREEMENT.docx](/lab1/files/TRADE_FINANCE_FACILITY_AGREEMENT_1.docx ':ignore')
 
-(B) You will the file attachment in the chat box
+(B) You will see the file attached in the chat box
 
 (C) Click on the user prompt "Show me a standard RAG risk table for trade finance contracts." for easy query
 

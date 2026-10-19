@@ -98,4 +98,4 @@ How can I extend this agent to analyze uploaded contracts automatically?
 
 ---
 
-*Next: [Lab 2 — Run the analysis and read the dashboard →](../lab1/03-run.md)*
+*Next: [Lab 2 — Run the Agent →](lab1/03-run.md)*
