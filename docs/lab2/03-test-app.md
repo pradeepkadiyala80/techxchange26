@@ -1,4 +1,4 @@
-# Test Agentic AI Application
+# 2.3 Test Agentic AI Application
 
 After the Agentic AI application for Banking is deployed you should be able to test it. 
 

@@ -1,4 +1,4 @@
-# 1.4 Run the Agent
+# 1.3 Run the Agent
 
 Now run contract through the agent and read what comes back.
 

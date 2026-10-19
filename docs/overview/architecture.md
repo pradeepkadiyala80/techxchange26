@@ -63,7 +63,7 @@ Integration of the Sirion to private LLM for model inferencing is performed thro
 
 ---
 
-## Trade Finance Cliennt Application on IBM Cloud Code Engine
+## Trade Finance Client Application on IBM Cloud Code Engine
 
 ![IBM Cloud Client Application Deployment](images/architecture-2.png)
 

@@ -13,15 +13,19 @@ Before you start this section, make sure you have the following
 
 ## Step 1 - Login to IBM Cloud
 
-Once you registeer to this lab session you will be invited to IBM Cloud account where your will create you Username and Password.
+Once you registeer to this lab session you will be given the lab account url https://cloud.ibm.com/authorize/lab1623txuser1201.
 
-- Use your username and password to login to IBM Cloud account
+- Use your (A) username and (B) password provided to you in a handout to login to IBM Cloud account
 
-![login-image](images/ibm-cloud-login.png)
+- (C) Click "Sign In" button to login to IBM Cloud
+
+![login-ibmcloud-image](images/keycloak_login.png)
+
+> User Name and password to login to IBM Cloud account will be provided in the handout document during the lab session. You will find the credentials under IBM Cloud Code Engine Platform > Credentials
 
 ## Step 2 - Open Serverless Projects in IBM Cloud Dashboard
 
-Navigate to Serverless project on the Main Menu
+After you successfully login, navigate to Serverless project on the Main Menu
 
 ![cloud-acct-page-image](images/cloud-acct-main-page.png)
 
@@ -46,6 +50,9 @@ This lab uses it to showcase single page applications or client applications tha
 ## Step 4 - Configure and Create the project
 
 Fill in the project configurations
+
+> Make sure you provide unique name while creating the project. You can use your name and your company name as a unique combination.
+
 
 ![cofig-create-project-image](images/create_config_proj.png)
 

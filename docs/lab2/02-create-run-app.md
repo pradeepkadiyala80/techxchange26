@@ -1,4 +1,4 @@
-# Deploy Agentic AI Application
+# 2.2 Deploy Agentic AI Application
 
 This is a client application that is integrated to the Agent that you created on agentOS. 
 This application is already packaged as an image in container registry

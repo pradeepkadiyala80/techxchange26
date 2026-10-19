@@ -4,7 +4,7 @@ Hands-on lab guide for building a Trade Finance solution on IBM Cloud.
 
 ## 🚀 View the Lab Guide
 
-👉 **[Open Lab Guide](https://YOUR-ORG.github.io/trade-finance-lab/)**  
+👉 **[Open Lab Guide](https://pradeepkadiyala80.github.io/techxchange26/#/)**  
 *(URL will be live after deploying to GitHub Pages)*
 
 ## 📁 Structure

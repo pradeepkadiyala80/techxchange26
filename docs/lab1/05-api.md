@@ -1,4 +1,4 @@
-# 1.4 Generate Agent API Key
+# 1.5 Generate Agent API Key
 
 Here you will generate API Key to integrate with the Agent that you just created. Once you create the API token you will be using that in the next section where you will deploy an application in IBM Cloud Serverless projects
 
@@ -51,4 +51,4 @@ Before you got to next section make sure you save the:
 
 Now that you have created an Agent for a specific industry use case in trade finance which is identifying the risks for a given contract, we will integrate this Agent with an existing Enterprise Application and deploy on IBM Cloud Serverless Project
 
-*Next: [2.1 Create Project →](lab2/01-create-proj.md)*
+*Next: [2.1 Create Project →](lab2/01-create-project.md)*
