@@ -51,4 +51,4 @@ When you will login to url https://cloud.ibm.com/authorize/lab1623txuser1201
 
 
 
-*Next: [Lets start by building an Agent →](../lab1/01-build-agent.md)*
+*Next: [Lets start by building an Agent →](lab1/01-build-agent.md)*

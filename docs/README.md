@@ -34,7 +34,7 @@ By the end of these labs you will have:
 | Lab | Topic | Duration |
 |-----|-------|----------|
 | Section 1 | Introduction | 10 min |
-| Section 2 | Building Multi-Agent Workflow on Sirion Agent OS | 30 min |
+| Section 2 | Building Agentic AI Workflow on Sirion Agent OS | 30 min |
 | Section 3 | Deploying application on serverless code engine | 30 min |
 | Section 4 | Understanding Security and Compliance | 10 min |
 | Section 5 | Questions | 10 min |
