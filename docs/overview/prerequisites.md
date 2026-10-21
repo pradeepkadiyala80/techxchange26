@@ -16,8 +16,8 @@ You will need two account details for this lab
 
 | Name | Artifact |
 | ---- | -------- |
-| **Trade Finance Agreement Document** | Download [TRADE_FINANCE_FACILITY_AGREEMENT_1.docx](/lab1/files/TRADE_FINANCE_FACILITY_AGREEMENT_1.docx ':ignore') |
-| **Trade Finance UI Component** | <a href="/lab1/files/RisksinTradeFinanceContract-Bundle.zip" download="Risks-Trade-Finance-Contract-UI-Component.zip">Download Risks-Trade-Finance-Contract-UI-Component.zip</a> |
+| **Trade Finance Agreement Document** | Download [TRADE_FINANCE_FACILITY_AGREEMENT_1.docx](lab1/files/TRADE_FINANCE_FACILITY_AGREEMENT_1.docx ':ignore') |
+| **Trade Finance UI Component** | <a href="lab1/files/RisksinTradeFinanceContract-Bundle.zip" download="Risks-Trade-Finance-Contract-UI-Component.zip">Download Risks-Trade-Finance-Contract-UI-Component.zip</a> |
 
 ### Credentials:
 

@@ -19,7 +19,7 @@ The Playground opens beside the configuration so you can test without leaving th
 
 (A) Under Playground panel, click the attachment icon in the message box and upload TRADE FINANCE FACILITY AGREEMENT.docx. A copy of the contract is linked in Prerequisites of this guide
 
-> DOWNLOAD FILE: You can also download the contract file from here [TRADE FINANCE FACILITY AGREEMENT.docx](/lab1/files/TRADE_FINANCE_FACILITY_AGREEMENT_1.docx ':ignore')
+> DOWNLOAD FILE: You can also download the contract file from here [TRADE FINANCE FACILITY AGREEMENT.docx](lab1/files/TRADE_FINANCE_FACILITY_AGREEMENT_1.docx ':ignore')
 
 (B) The file is attched to the chat box once it is uploaded
 

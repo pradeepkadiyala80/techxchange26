@@ -26,7 +26,7 @@ Open the Assets tab.
 
 The zip must contain index.html at its root and only web asset files
 
-> The UI Component Zip file is provided in the Pre-requisites. You can also download from here <a href="/lab1/files/RisksinTradeFinanceContract-Bundle.zip" download="Risks-Trade-Finance-Contract-UI-Component.zip">Download Risks-Trade-Finance-Contract-UI-Component.zip</a>
+> The UI Component Zip file is provided in the Pre-requisites. You can also download from here <a href="lab1/files/RisksinTradeFinanceContract-Bundle.zip" download="Risks-Trade-Finance-Contract-UI-Component.zip">Download Risks-Trade-Finance-Contract-UI-Component.zip</a>
 
 ## Step 3 - Create Schema
 
