@@ -69,7 +69,9 @@ You will enable it so the agent can read an uploaded contract.
 
 You will enable it.
 
-**(F)** Save Changes — commits any edit made on this screen. Nothing takes effect until you click it.
+**(F)** Save Changes — commits any edit made on this screen. Nothing takes effect until you click it. A message pops up from the bottom right side saying "Success. Agent Updated Successfully"
+
+
 
 ---
 

@@ -34,7 +34,7 @@ In the left rail of the agent, under BUILD,
 
 ## Step 3 - Attach Tools
 
-(A) Click Tools in the left rail. 
+(A) Click Tools in the left rail under the "BUILD" menu. 
 
 (B) Scroll to System Tools (which is below UI Components) — these are the toolkits agentOS provides out of the box.
 
