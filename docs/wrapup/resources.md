@@ -27,4 +27,4 @@ A curated list of documentation, tutorials, and tools referenced throughout the 
 12. [Corporate Banking beyond the transaction](https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/corporate-banking-ai-platforms)
 
 
-*Back to [Summary →](summary.md)*
+*Back to [Summary →](wrapup/summary.md)*
