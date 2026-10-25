@@ -54,7 +54,11 @@ A pop window will open when you click on "Create registry secret +". Here you wi
 
 (D) Provide the "Access token". This will be provided to you in the printed "Lab Requirements" document when you attend the lab
 
-> If you dont find the dockerhub API Token in pre-requisites you can copy it from here dckr_pat_F0alXKlSSN82I8dyMd7RtVBiP3w
+> If you dont find the dockerhub API Token in pre-requisites you can copy it from here
+
+```text
+dckr_pat_F0alXKlSSN82I8dyMd7RtVBiP3w
+```
 
 (E) Click "Create" button
 
