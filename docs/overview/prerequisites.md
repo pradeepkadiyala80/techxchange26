@@ -21,7 +21,7 @@ You will need two account details for this lab
 
 ### Credentials:
 
-When you will login to url http://ibm-techxchange.sirioncloud.io:8000/agentos/login. You will need the following credentials.
+When you will login to url https://ibm-techxchange.sirioncloud.io/agentos/login. You will need the following credentials.
 
 | Name | Vaule | Details |
 | ---- | ----- | ------- |
@@ -41,7 +41,7 @@ When you will login to url https://cloud.ibm.com/authorize/lab1623txuser1201
 | ---- | ------- |
 | IBM Cloud Username | You will recieve the detials in the handout during the lab |
 | IBM Cloud password | You will recieve the detials in the handout during the lab |
-| Docker Hub API Token | You will recive API token in the handout. It will be used to pull the application image from Docker Hub and deploy in code engine |
+| Docker Hub API Token | ```dckr_pat_F0alXKlSSN82I8dyMd7RtVBiP3w``` |
 
 
 

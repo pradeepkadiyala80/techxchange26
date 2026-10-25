@@ -1,22 +1,22 @@
 # 1.1 Build Agent
 
-Creating the agent from a description. agentOS generates an agent from a plain-language description of what you want it to do. The description does not need to be technical — it needs to be clear about the outcome.
+Creating the agent from a description. Sirion agentOS generates an agent from a plain-language description of what you want it to do. The description does not need to be technical — it needs to be clear about the outcome.
 
 ---
 
-## Step 1 - Login to agentOS
+## Step 1 - Login to Sirion agentOS
 
-You can login by calling the url http://ibm-techxchange.sirioncloud.io:8000/agentos/login
+You can login by calling the url https://ibm-techxchange.sirioncloud.io/agentos/login
 
-agentOS credentials are provided to each attendees. Use your credentials to login.
+Sirion agentOS credentials are provided to each attendees. Use your credentials to login.
 
 ![agentOS-login-screen](images/login-agentOS.png)
 
 ## Step 2 —	Describe the Agent
 
-After you login you will be taken to  agentOS home page. Here you will see the following
+After you login you will be taken to  Sirion agentOS home page. Here you will see the following
 
-(A) This is the Main Menu to navigate through different sections of agentOS
+(A) This is the Main Menu to navigate through different sections of Sirion agentOS
 
 (B) You can expand and collapse the main menu using the arrow icon
 
@@ -43,7 +43,7 @@ Check the description in the text box (A), then click Build Agent (B).
 
 ![build-agent-screen](images/build-agent-1.png)
 
-Wait while agentOS builds the agent. A Generating Agent… notification appears and the AI builder workflow runs. This takes roughly 30 seconds.
+Wait while Sirion agentOS builds the agent. A Generating Agent… notification appears and the AI builder workflow runs. This takes roughly 30 seconds.
 
 ![build-agent-screen](images/build-agent-2.png)
 
@@ -51,13 +51,15 @@ Wait while agentOS builds the agent. A Generating Agent… notification appears 
 
 ## Step 4 - Review Agent Configuration
 
-agentOS has now produced a complete draft. Before running anything, read what it created — this is where you learn what an agent is actually made of. On the Overview tab, review the agent’s Basic Configuration:
+Sirion agentOS has now produced a complete draft. Before running anything, read what it created — this is where you learn what an agent is actually made of. On the Overview tab, review the agent's Basic Configuration:
 
 ![Agent-Review-Image](images/review-agent-1.png)
 
 **(A)** Agent Name — the display name, generated from your description. Add your first and last name to the end of it so you can find your agent easily in a shared environment.
 
 **(B)** Slug — the URL-friendly identifier, unique per client. It is used when the agent is called from another system.
+
+> IMPORTANT: Save this slug value from the text field. You will use this later while deploying a banking application
 
 **(C)** Description — the description you supplied, retained for reference.
 
@@ -109,8 +111,9 @@ Click Save Changes if you have adjusted anything, then move on to the next major
 
 Before moving to the next section, confirm:
 
-- [ ] Wait until the agentOs builds the agent
+- [ ] Wait until the Sirion agentOS builds the agent
 - [ ] Review the Agent and its configurations
+- [ ] Make sure to save the "Slug" text-field value
 
 ---
 

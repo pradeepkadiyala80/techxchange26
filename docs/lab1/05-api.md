@@ -10,7 +10,7 @@ To generate API Key follow the steps
 
 (A) Under Main Menu click on API Keys
 
-(B) Get the API endpoint and save it temporarily in a text file
+(B) API endpoint are used for integrations
 
 (C) Click Generate API Key on top right corner. A dialogue box will open to Generate API Key
 
@@ -34,18 +34,18 @@ Enter the following fields
 
 > Sometimes the copy button doesnt work so manually select and copy the API Key
 
+> IMPORTANT: This API Key will be used while integrating the Banking Application to the Agent you created
 ---
 
 ## ✅ Checkpoint
 
 Before you got to next section make sure you save the:
 
-- [ ] API Endpoint 
-- [ ] API Key.
+- [ ] Created API Key.
 
 ---
 
-**You have successfully completed the first section "Build Agents on agentOS".**
+**You have successfully completed the first section "Build Agents on Sirion agentOS".**
 
 ## 🎉 Congratulations! 🎉
 

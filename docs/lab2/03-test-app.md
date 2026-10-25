@@ -7,7 +7,7 @@ The backend of the application is integrated with Agent created in Sirion agentO
 Before you start you need to make sure you have the following
 
 - [x] Public Domain URL created in Serverless Project in previous step
-- [x] API Token created in Sirion agentOS (**Build Agents on agentOS > [Generate Agent API Key](lab1/05-api.md)**)
+- [x] API Token created in Sirion agentOS (**Build Agents on Sirion agentOS > [Generate Agent API Key](lab1/05-api.md)**)
 
 ## Step - 1: Configure the Application
 

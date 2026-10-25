@@ -1,6 +1,6 @@
 # 2.2 Deploy Agentic AI Application
 
-This is a client application that is integrated to the Agent that you created on agentOS. 
+This is a client application that is integrated to the Agent that you created on Sirion agentOS. 
 This application is already packaged as an image in container registry
 The application will be deployed on the serverless project platform
 
@@ -13,7 +13,7 @@ The application will be deployed on the serverless project platform
 ## Step - 2: Configure the Application
 
 You will configure the application with pre-built apllication image as below.
-The application is already pre-built and the application image is in the container registry.
+The application is already pre-built and the application image is in the dockerhub container registry.
 
 ![create-app-image](images/create-app.png)
 
@@ -27,7 +27,7 @@ The application is already pre-built and the application image is in the contain
 
 ## Step - 3: Configure the Image
 
-You will configure the image from public Docker hub container registry. You will be provided with the docker hub credentials with READ-ONLY access to the application image.
+You will configure the image from public Docker hub container registry. You are provided with the docker hub credentials with READ-ONLY access to the application image in pre-requisites.
 
 > Note: A full Enterprise IBM Cloud account will allow you to have the application images in private container registry. For this lab we will be using docker hub.
 
@@ -53,6 +53,12 @@ A pop window will open when you click on "Create registry secret +". Here you wi
 (C) Provide the username. This will provided to you in the printed "Lab Requirements" document when you attend the lab
 
 (D) Provide the "Access token". This will be provided to you in the printed "Lab Requirements" document when you attend the lab
+
+> If you dont find the dockerhub API Token in pre-requisites you can copy it from here
+
+```text
+dckr_pat_F0alXKlSSN82I8dyMd7RtVBiP3w
+```
 
 (E) Click "Create" button
 

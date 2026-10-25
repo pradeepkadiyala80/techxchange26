@@ -4,10 +4,10 @@ In this section you will deploy an enterprise-hosted Agentic Application with Ch
 
 Before you start this section, make sure you have the following
 
-- [x] agentOS API Endpoint to the Agent you created
-- [x] agentOS API Key
+- [x] Sirion agentOS Agent Slug value
+- [x] Sirion agentOS API Key
 
-> If you dont have the API Endpoint and API Key, you can retrive by following the instruction in the previous section [Generate Agent API Key](../lab1/05-api.md)
+> If you dont have the Agent Slug value and API Key, you can retrive by following the instruction in the previous section [Generate Agent API Key](../lab1/05-api.md)
 
 ## Create Project on Serverless Code Engine
 

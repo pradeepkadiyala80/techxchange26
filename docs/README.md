@@ -4,7 +4,7 @@
 
 ### TechXchange 2026
 
-> **Welcome!** In this hands-on lab, you will build Agents to solve a business problem on IBM Cloud with Sirion Agent OS and nVIDIA GPU-accelerated infrastructure and address enterprise challenges in compliance, security, and data sovereignty.
+> **Welcome!** In this hands-on lab, you will build Agents to solve a business problem on IBM Cloud with Sirion agentOS and nVIDIA GPU-accelerated infrastructure and address enterprise challenges in compliance, security, and data sovereignty.
 By the end of the lab, participants will have practical experience building and operating compliant AI solutions and will leave with proven deployment patterns, best practices, and reference architectures that can be applied across financial services, healthcare, government, and other highly regulated industries
 
 ---
@@ -24,7 +24,7 @@ By the end of these labs you will have:
 
 - ✅ Agentic AI Workflow for Contract Lifecycle Management Solution
 - ✅ Inferencing LLMs hosted on IBM Enterprise nVIDIA GPUs within IBM Cloud infrastructure
-- ✅ Deploy Serverless Applications integrating with Risk Analyser Agent running agentOS platform
+- ✅ Deploy Serverless Applications integrating with Risk Analyser Agent running Sirion agentOS platform
 - ✅ Understand Industry Security and Compliance on IBM Cloud
 
 ---
@@ -34,7 +34,7 @@ By the end of these labs you will have:
 | Lab | Topic | Duration |
 |-----|-------|----------|
 | Section 1 | Introduction | 10 min |
-| Section 2 | Building Agentic AI Workflow on Sirion Agent OS | 30 min |
+| Section 2 | Building Agentic AI Workflow on Sirion agentOS | 30 min |
 | Section 3 | Deploying application on serverless code engine | 30 min |
 | Section 4 | Understanding Security and Compliance | 10 min |
 | Section 5 | Questions | 10 min |
@@ -47,7 +47,10 @@ By the end of these labs you will have:
 
 Navigate using the **sidebar** on the left or the **arrows** at the bottom of each page. Use the **search bar** (top of sidebar) to jump to any topic.
 
-> 💡 All commands in this guide can be copied with a single click using the **Copy** button that appears on hover.
+```text
+All commands in this guide can be copied with a single click 
+using the **Copy** button that appears on hover.
+```
 
 ---
 

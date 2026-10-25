@@ -249,7 +249,7 @@ This schema is the contract between the agent and the component
 
 (B) Click Create Component 
 
-agentOS uploads the bundle and confirms UI component created — Bundle uploaded and ready to serve.
+Sirion agentOS uploads the bundle and confirms UI component created — Bundle uploaded and ready to serve.
 
 ## Step 4 - Review the UI Component
 

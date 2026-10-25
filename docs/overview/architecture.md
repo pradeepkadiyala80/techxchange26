@@ -1,10 +1,10 @@
 # Architecture Overview
 
-This section describes the high-level architecture of the Trade Finance solution you will build during the labs using IBM Cloud Independent Software Vendor (ISV) Sirion Agent OS and IBM Cloud Services.
+This section describes the high-level architecture of the Trade Finance solution you will build during the labs using IBM Cloud Independent Software Vendor (ISV) Sirion agentOS and IBM Cloud Services.
 
 ---
 
-## Agentic AI on Sirion Agent OS
+## Agentic AI on Sirion agentOS
 
 ![Sirion on IBM Cloud Framework for Financial Services](images/architecture-1.png)
 
@@ -12,9 +12,9 @@ This section describes the high-level architecture of the Trade Finance solution
 
 ### Key Components
 
-#### 1. Sirion Agent OS
+#### 1. Sirion agentOS
 
-Sirion is a Contract Lifecycle management software that is deployed in its on virtual private cloud (VPC). The lab uses a single agent running on agentOS. There is nothing to install and nothing to deploy — the participant works in a browser, the contract is uploaded into the agent’s Playground, and the result is rendered back into the same conversation. The parts of the agent, and what each one does:
+Sirion is a Contract Lifecycle management software that is deployed in its on virtual private cloud (VPC). The lab uses a single agent running on Sirion agentOS. There is nothing to install and nothing to deploy — the participant works in a browser, the contract is uploaded into the agent’s Playground, and the result is rendered back into the same conversation. The parts of the agent, and what each one does:
 
 | Component	| Purpose in this lab |
 | --------- | ------------------- |
@@ -31,11 +31,11 @@ Integration of the Sirion to private LLM for model inferencing is performed thro
 
 | Component |	Purpose in this lab |
 | --------- |	------------------- |
-| Transit Gateway |	Transit Gateway connects two VPC’s – One VPC that has Sirion Agent OS and the other is where the LLM model is hosted. Both VPC’s are connected through a managed hub privately without any public internet exposure |
-| Public Load Balancer |	A Public Load Balancer that supports HTTPS and SSL offloading that will connect to Sirion Agent OS platform endpoint. It allows you to scale the instances and distributes the traffic across multiple instances for public facing applications. |
+| Transit Gateway |	Transit Gateway connects two VPC's – One VPC that has Sirion agentOS and the other is where the LLM model is hosted. Both VPC's are connected through a managed hub privately without any public internet exposure |
+| Public Load Balancer |	A Public Load Balancer that supports HTTPS and SSL offloading that will connect to Sirion agentOS platform endpoint. It allows you to scale the instances and distributes the traffic across multiple instances for public facing applications. |
 | Private Load Balancer |	Private Load Balancer distributes traffic to inference models hosted on NVIDIA GPU based Virtual Server Instances within the private network, with no exposure to public network |
 | Virtual Private Endpoint Gateway |	This is required for custom Application Agents that are running on Serverless Code engine to inference the LLM models through private network with no exposure to public internet. |
-| Cloud Internet Services |	This acts as firewall to Sirion Agent OS public load balancer. |
+| Cloud Internet Services |	This acts as firewall to Sirion agentOS public load balancer. |
 
 #### 3. RedHat AI Inference (Dedicated or Shared)
 
