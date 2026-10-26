@@ -68,11 +68,11 @@ Welcome! I can show you the key risks in a trade finance contract, categorized a
 Under Conversation starters, add the following prompts. These give a new user somewhere obvious to begin:
 
 ```text 
-Show me a standard RAG risk table for trade finance contracts. 
+Show me RAG risk table for trade finance contract document. 
 ```
 
 ```text 
-What are the top risks in a letter of credit agreement?
+What are the top risks in a letter of credit agreement document?
 ```
 
 ```text 
