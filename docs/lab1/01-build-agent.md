@@ -2,7 +2,6 @@
 
 Creating the agent from a description. Sirion agentOS generates an agent from a plain-language description of what you want it to do. The description does not need to be technical — it needs to be clear about the outcome.
 
----
 
 ## Step 1 - Login to Sirion agentOS
 
@@ -106,6 +105,16 @@ Scroll down to LLM Configuration to see the LLM configuration.
 
 Click Save Changes if you have adjusted anything, then move on to the next major task
 
+---
+
+### Watch the walkthrough
+
+<video controls width="100%">
+  <source src="lab1/videos/1_1_Build_Agent.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
 
 ## ✅ Checkpoint
 
