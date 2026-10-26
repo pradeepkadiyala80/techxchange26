@@ -311,6 +311,15 @@ The agent renders the Risks in a Trade Finance Contract UI component — the sam
 
 ---
 
+### Watch the walkthrough
+
+<video controls width="100%">
+  <source src="lab1/videos/1_4_UI.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
 ## ✅ Checkpoint
 
 - [ ] Create Deterministic UI Component

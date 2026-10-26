@@ -53,6 +53,15 @@ The agent returns an overall rating, a count of risks by severity, the top three
 
 ---
 
+### Watch the walkthrough
+
+<video controls width="100%">
+  <source src="lab1/videos/1_3_Run.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
 ## ✅ Checkpoint
 
 Before moving to the next section, confirm:

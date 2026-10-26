@@ -90,6 +90,15 @@ In the dashboard you will see
 
 ---
 
+### Watch the walkthrough
+
+<video controls width="100%">
+  <source src="lab2/videos/2_1_create_proj.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
 ## ✅ Checkpoint
 
 - [ ] Create Project under Serverless Projects

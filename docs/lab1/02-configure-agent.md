@@ -90,6 +90,15 @@ How can I extend this agent to analyze uploaded contracts automatically?
 
 ---
 
+### Watch the walkthrough
+
+<video controls width="100%">
+  <source src="lab1/videos/1_2_Config_Agent.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
 ## ✅ Checkpoint
 
 - [ ] Attached Tools

@@ -45,6 +45,15 @@ Before you got to next section make sure you save the:
 
 ---
 
+### Watch the walkthrough
+
+<video controls width="100%">
+  <source src="lab1/videos/1_5_API_Key.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
 **You have successfully completed the first section "Build Agents on Sirion agentOS".**
 
 ## 🎉 Congratulations! 🎉

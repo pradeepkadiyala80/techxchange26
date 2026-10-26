@@ -7,6 +7,7 @@ The backend of the application is integrated with Agent created in Sirion agentO
 Before you start you need to make sure you have the following
 
 - [x] Public Domain URL created in Serverless Project in previous step
+- [x] Agent Slug created in Sirion agentOS
 - [x] API Token created in Sirion agentOS (**Build Agents on Sirion agentOS > [Generate Agent API Key](lab1/05-api.md)**)
 
 ## Step - 1: Configure the Application
@@ -65,6 +66,16 @@ The response may take some time from the Agent as it has to analyze the Agreemen
 (C) A full Executive Summary with all the risks findings are provided in the nice UI on left hand side bar
 
 ---
+
+### Watch the walkthrough
+
+<video controls width="100%">
+  <source src="lab2/videos/2_3_test_app.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
 
 ## ✅ Checkpoint
 

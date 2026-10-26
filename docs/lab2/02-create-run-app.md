@@ -50,9 +50,13 @@ A pop window will open when you click on "Create registry secret +". Here you wi
 
 (B) Give a name to the secrets so you dont reveal the actual secrets in Secrets Manager
 
-(C) Provide the username. This will provided to you in the printed "Lab Requirements" document when you attend the lab
+(C) Enter the username provided below
 
-(D) Provide the "Access token". This will be provided to you in the printed "Lab Requirements" document when you attend the lab
+```text
+pradeepkadiyala
+```
+
+(D) Provide the "Access token". 
 
 > If you dont find the dockerhub API Token in pre-requisites you can copy it from here
 
@@ -133,6 +137,15 @@ Retrieve the domain url to test Agentic AI application
 (A) Select the Domain Mapping tab to view the public domain URL
 
 (B) Copy the public domain URL
+
+---
+
+### Watch the walkthrough
+
+<video controls width="100%">
+  <source src="lab2/videos/2_2_app.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
